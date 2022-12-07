@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @99985
+- 🌱 I’m currently learning javascript, to make a bookmarklet along with java and python
+- 💞️ I’m looking to collaborate on a "bookmarklet hub" so to speak, as a way to cut down the clutter in my bookmark bar
